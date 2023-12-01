@@ -16,3 +16,15 @@ with Data Structures &amp; Algorithms
 * Solution 14 구조체
 * Solution 15 비트 다루기
 * Solution 16 전처리기와 라이브러리
+## 자료구조 알고리즘 기초 Do it!을 보고 만들었습니다.
+* Chapter01 기본 알고리즘
+* Chatper02 기본 자료구조
+* Chapter03 검색
+* Chapter04 스택과 큐
+* Chapter05 재귀 알고리즘
+* Chapter06 정렬
+* Chapter07 집합
+* Chapter08 문자열 검색
+* Chapter09 리스트
+* Chapter10 트리
+* Chapter11 해시
